@@ -1,0 +1,6 @@
+frost(8) is a simple suspend tool for GNU/Linux, licensed under the BSD license.
+It is aimed to replace the "-{s,S}" functionality of the abandoned AcpiTool
+project (http://sourceforge.net/projects/acpitool/).
+
+frost(8)'s code is well-documented and written with the Suckless Philosophy
+(http://www.suckless.org/) in mind.
